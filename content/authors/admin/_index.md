@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Robert
+title: Roberto Magán Carrión
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Roberto
+last_name: Magán Carrión
 
 # Status emoji
 status:
